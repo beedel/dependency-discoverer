@@ -116,7 +116,6 @@
 #include <list>
 
 #include <thread>
-#include <optional>
 #include <mutex>
 #include <functional>
 

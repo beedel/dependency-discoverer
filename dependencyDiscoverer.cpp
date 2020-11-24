@@ -1,5 +1,6 @@
 /*
  * Tomas Mikus
+ * 2473026m
  * SP Exercise 2
  * This is my own work as defined in the Academic Ethics agreement I have signed.
  */
@@ -113,9 +114,7 @@
 #include <list>
 
 #include <thread>
-#include <optional>
 #include <mutex>
-#include <functional>
 
 std::vector<std::string> dirs;
 
