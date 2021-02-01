@@ -1,12 +1,3 @@
-
-
-
-/*
- * Tomas Mikus
- * SP Exercise 2
- * This is my own work as defined in the Academic Ethics agreement I have signed.
- */
-
 /*
  * usage: ./dependencyDiscoverer [-Idir] ... file.c|file.l|file.y ...
  *
