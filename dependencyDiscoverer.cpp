@@ -1,11 +1,4 @@
 /*
- * Tomas Mikus
- * 2473026m
- * SP Exercise 2
- * This is my own work as defined in the Academic Ethics agreement I have signed.
- */
-
-/*
  * usage: ./dependencyDiscoverer [-Idir] ... file.c|file.l|file.y ...
  *
  * processes the c/yacc/lex source file arguments, outputting the dependencies
